@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "outputDirectory": "dist/habit-tracker",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
+
+
+
+
+

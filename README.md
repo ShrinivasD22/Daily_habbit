@@ -2,7 +2,7 @@
 
 A full-featured habit tracking mobile app built with **Angular 21**, **Ionic**, **PrimeNG**, and **Tailwind CSS**. Track daily habits, build streaks, earn achievements, and gain insights into your progress.
 
-> **Org:** [code-cartel-za](https://github.com/code-cartel-za)
+
 
 ---
 
